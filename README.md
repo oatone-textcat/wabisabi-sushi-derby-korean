@@ -18,7 +18,11 @@
 4. 이후 우측 하단의 '한글 패치 설치' 버튼을 누르면 패치가 완료됩니다.
 5. 게임 시작 후 **언어를 일본어로 설정한 뒤**, 텍스트가 한글로 출력되면 정상적으로 적용된 것입니다.
 
-#### 설치 이후 반드시 언어를 일본어로 설정해야 합니다!!!
+### 설치 이후 반드시 언어를 일본어로 설정해야 합니다!!!
+
+<img width="709" height="583" alt="image" src="https://github.com/user-attachments/assets/3096f212-d241-4f34-8f0f-304f6274e886" />
+
+<img width="700" height="604" alt="image" src="https://github.com/user-attachments/assets/e079c7d3-9376-433e-9491-934c8382e6f4" />
 
 ## 주의사항
 
